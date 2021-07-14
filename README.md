@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nazmus
 - 👀 I’m interested in Javascript and its libraries
 - 🌱 I’m currently learning Angular 
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 💞️ I’m looking to collaborate Open Source Projects
 - 📫 How to reach me nsakibuvic@gmail.com
 
 <!---
