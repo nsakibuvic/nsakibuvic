@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nazmus
-- 👀 I’m interested in Javascript and its libraries
-- 🌱 I’m currently learning Angular 
+- 👀 I have 5 plus experience with React, Javascript and Node
+- 🌱 I’m learning Data Bricks and Design System for Front End
 - 💞️ I’m looking to collaborate Open Source Projects
 - 📫 How to reach me nsakibuvic@gmail.com
 
