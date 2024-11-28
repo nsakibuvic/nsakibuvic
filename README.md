@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nazmus
-- 👀 I have 5 plus experience with React, Javascript and Node
+- 👀 I have 5 plus experience with React, Python, TyepScript, Next JS, Contentful, Javascript and Node
 - 🌱 I’m learning Data Bricks and Design System for Front End
 - 💞️ I’m looking to collaborate Open Source Projects
 - 📫 How to reach me nsakibuvic@gmail.com
